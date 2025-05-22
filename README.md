@@ -56,6 +56,7 @@ endmodule
 
 
 **RTL realization**
+
 ![Screenshot 2025-04-24 105501](https://github.com/user-attachments/assets/e405fb9b-7029-43f5-82ce-e7cdd742d40a)
 
 
@@ -66,6 +67,7 @@ endmodule
 
 
 **Timing Diagram**
+
 ![Screenshot 2025-04-24 105909](https://github.com/user-attachments/assets/6e225964-4405-4e80-a431-a026245cf5d5)
 
 
